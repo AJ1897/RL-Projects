@@ -1,1 +1,1 @@
-# DS595CS525-RL-Projects
+# RL-Projects-Python-PyTorch
