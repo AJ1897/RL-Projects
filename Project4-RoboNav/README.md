@@ -1,7 +1,8 @@
 # RoboNav: Robot navigation in dynamic environments using Deep Reinforcement Learning
 
 ## Setup:
-- ROS1
+- Ubuntu 18.04
+- ROS Melodic
 - Gazebo 9
 - Pytorch
 - Cuda 10.2
