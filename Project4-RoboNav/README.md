@@ -1,5 +1,11 @@
 # RoboNav: Robot navigation in dynamic environments using Deep Reinforcement Learning
 
+## Setup:
+- ROS1
+- Gazebo 9
+- Pytorch
+- Cuda 10.2
+
 ## Techniques Used:
 - Deep-Q-Network (DQN)
 - Deep-Deterministic-Policy-Gradient (DDPG)
