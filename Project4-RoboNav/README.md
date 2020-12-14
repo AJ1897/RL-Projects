@@ -19,19 +19,13 @@
 `export TURTLEBOT3_MODEL=burger`
 
 - Launch Gazebo with turtlebot3 in Gazebo\
-  `roslaunch turtlebot3_gazebo turtlebot3_stage_1.launch` for Stage 1 
+  `roslaunch turtlebot3_gazebo turtlebot3_stage_3.launch`
   
-  `roslaunch turtlebot3_gazebo turtlebot3_stage_2.launch` for Stage 2
-  
-  `roslaunch turtlebot3_gazebo turtlebot3_stage_3.launch` for Stage 3
-  
-  `roslaunch turtlebot3_gazebo turtlebot3_stage_4.launch` for Stage 4
-  
-  `roslaunch turtlebot3_ddpg turtlebot3_house.launch`     for Stage 5
-  
-
 - Launch the DQN training\
-`roslaunch turtlebot3_dqn turtlebot3_dqn_torch.launch stage:=3 method:='dueling' mode:='test' move_3:='true'`
+`roslaunch turtlebot3_dqn turtlebot3_dqn_torch.launch stage:=3 method:='dueling' mode:='train' move_3:='true'`
+
+- Launch the DDPG training\
+`roslaunch turtlebot3_ddpg turtlebot3_ddpg_torch.launch stage:=3 mode:='train' move_3:='true'`
 
 
 # TurtleBot3
