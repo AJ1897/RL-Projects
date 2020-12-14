@@ -1,4 +1,4 @@
-# RL-Projects-Python-PyTorch
+# RL-Projects
 The Projects mentioned in this repository have been worked on as part of course - Reinforcement Learning(DS-595/CS-525) by Prof. Yanhua Li. Each of the project focuses on a different aspect of Reinforcement Learning. All the projects barring Project 4 have been performed individually.
 
 ## Setup
