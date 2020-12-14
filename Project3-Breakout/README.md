@@ -1,5 +1,9 @@
 # Deep Q-learning Network(DQN)
 
+In this project, an off-policy RL algorithm Deep Q Network(DQN) is implemented to play [Breakout](https://gym.openai.com/envs/Breakout-v0/). This projectis completed in Python 3 using [Pytorch](https://pytorch.org/). The goal of the training was to get averaging reward in 100 episodes over **40 points** in **Breakout**, with OpenAI's Atari wrapper & unclipped reward. For more details, please see the [slides](https://docs.google.com/presentation/d/1CbYqY5DfXQy4crBw489Tno_K94Lgo7QwhDDnEoLYMbI/edit?usp=sharing).
+
+<img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/project3.png" width="80%" >
+
 ## Leaderboard for class of Fall 2020 (DS-595/CS-525)
   
   **Leaderboard for Breakout-DQN** 
@@ -34,7 +38,3 @@ training DQN:
 testing DQN:
 * `$ python test.py --test_dqn`
 
-## Goal
-In this project, you will be asked to implement DQN to play [Breakout](https://gym.openai.com/envs/Breakout-v0/). This project will be completed in Python 3 using [Pytorch](https://pytorch.org/). The goal of your training is to get averaging reward in 100 episodes over **40 points** in **Breakout**, with OpenAI's Atari wrapper & unclipped reward. For more details, please see the [slides](https://docs.google.com/presentation/d/1CbYqY5DfXQy4crBw489Tno_K94Lgo7QwhDDnEoLYMbI/edit?usp=sharing).
-
-<img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/project3.png" width="80%" >
