@@ -1,5 +1,9 @@
 # RoboNav: Robot navigation in dynamic environments using Deep Reinforcement Learning
 
+## Techniques Used:
+- Deep-Q-Network (DQN)
+- Deep-Deterministic-Policy-Gradient (DDPG)
+- Move-Base 
 
 
 
