@@ -1,4 +1,5 @@
 # RoboNav: Robot navigation in dynamic environments using Deep Reinforcement Learning
+<img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="200">
 
 ## Setup:
 - Ubuntu 18.04
@@ -11,6 +12,8 @@
 - Deep-Q-Network (DQN)
 - Deep-Deterministic-Policy-Gradient (DDPG)
 - Move-Base 
+
+
 
 
 
