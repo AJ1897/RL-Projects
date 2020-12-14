@@ -1,6 +1,6 @@
 # Deep Q-learning Network(DQN)
 
-## Leaderboard for class of Fall 2020
+## Leaderboard for class of Fall 2020 (DS-595/CS-525)
   
   **Leaderboard for Breakout-DQN** 
   **Update Date: 11/19/2020 16:00**
