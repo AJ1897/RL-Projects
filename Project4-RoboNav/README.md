@@ -19,8 +19,7 @@
 `export TURTLEBOT3_MODEL=burger`
 
 - Launch Gazebo with turtlebot3 in Gazebo\
-  `roslaunch turtlebot3_gazebo turtlebot3_stage_1.launch` for Stage1
-  
+  `roslaunch turtlebot3_gazebo turtlebot3_stage_1.launch` for Stage1 //
   `roslaunch turtlebot3_gazebo turtlebot3_stage_2.launch` for Stage2
   
   `roslaunch turtlebot3_gazebo turtlebot3_stage_3.launch` for Stage3
