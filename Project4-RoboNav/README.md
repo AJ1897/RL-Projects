@@ -1,5 +1,5 @@
 # RoboNav: Robot navigation in dynamic environments using Deep Reinforcement Learning
-<img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="200">
+<img src="https://github.com/AJ1897/RL-Projects/blob/master/Project4-RoboNav/Additional_Materials/robotnav.png" width="300">
 
 ## Setup:
 - Ubuntu 18.04
