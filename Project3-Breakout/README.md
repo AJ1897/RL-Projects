@@ -1,10 +1,6 @@
 # Deep Q-learning Network(DQN)
 
-## Leaderboard and Bonus Points
-In this project, we will provide a leaderboard and give **10** bonus points to the **top 3** highest reward students! 
-* Where to see the leaderboard 
-  * We will create a discussion on Canvas and each of you can post your highest reward with a sreenshot. TA will summarize your posts and list the top 3 highest rewards and post it below. <br>
-  * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
+## Leaderboard for class of Fall 2020
   
   **Leaderboard for Breakout-DQN** 
   **Update Date: 11/19/2020 16:00**
@@ -22,12 +18,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   |9 | 11/20/2020|Scott Tang  | 153.89  |
   |10 | 11/18/2020|Xinyuan Yang  | 139.11  |
  
-
-* How to elvaluate
-  * You should submit your lastest trained model and python code. TA will run your code to make sure the result is consistent with your screenshot. 
-* How to grade
-  * Top 3 students on the leaderboard can get 10 bonus points for project 3.
-  
+ 
 
 ## Installation
 Type the following command to install OpenAI Gym Atari environment in your **virutal environment**.
