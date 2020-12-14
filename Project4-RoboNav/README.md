@@ -25,6 +25,13 @@ In this project, we explored an end-to-end learning approach to train a navigati
 - Launch the DQN training\
 `roslaunch turtlebot3_dqn turtlebot3_dqn_torch.launch stage:=3 method:='dueling' mode:='train' move_3:='true'`
 
+- Launch Gazebo with turtlebot3 in stage 1 environment for move-base\
+`roslaunch turtlebot3_move_base turtlebot3_stage_1-edit.launch`
+
+- Simulte both move_base & data logger for move-base
+`rosrun turtlebot3_move_base `
+
+
 - Launch the DDPG training\
 `roslaunch turtlebot3_ddpg turtlebot3_ddpg_torch.launch stage:=3 mode:='train' move_3:='true'`
 
