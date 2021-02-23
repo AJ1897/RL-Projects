@@ -14,9 +14,9 @@ The SEVN Simulator is OpenAI Gym-compatible to allow the use of state-of-the-art
 
 Low Resolution Views (84x84px)             |  High Resolution Views (1280x1280px)
 :-------------------------:|:-------------------------:
-![game.png](low-res-viewer.png)  |  ![game.png](high-res-viewer.png)
+![game.png](imgs/low-res-viewer.png)  |  ![game.png](imgs/high-res-viewer.png)
 
-![spatial_graph.png](spatial_graph.png)
+![spatial_graph.png](imgs/spatial_graph.png)
 
 4,988 panoramic images across 6.3 kilometers with 3,259 labels on house numbers, doors, and street name signs.
 
