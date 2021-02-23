@@ -14,3 +14,4 @@ The Projects mentioned in this repository have been worked on as part of course 
 - Project 2 - Black Jack(Monte-Carlo) and Cliff Jumping(TD Learning)
 - Project 3 - Atari Breakout (Deep Q Network)
 - Project 4 - RoboNav (Deep Q Network, Deep Deterministic Policy Gradient, Move-Base)
+- Project 5 - SEVN (Deep Q Network, Proximal Policy Optimization)
